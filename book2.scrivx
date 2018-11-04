@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="DESKTOP-G97BSK6" Modified="2018-11-04 13:09:19 +0100" ModID="8949A6D6-ECD0-4D61-BA31-3FD79B723072">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Labdob" Modified="2018-11-04 21:37:52 +0100" ModID="65F0FE39-E51F-4D6E-93B7-1B8EE6B20051">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 22:48:19 +0100" Modified="2014-06-13 00:17:20 +0100" Type="Text">
             <Title>Novel Format</Title>
@@ -43,7 +43,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2018-11-04 13:08:48 +0100" Type="Text">
+                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2018-11-04 20:32:33 +0100" Type="Text">
                             <Title>Scene</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -51,7 +51,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>36429,0</TextSelection>
+                                <TextSelection>43630,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -59,6 +59,16 @@
                                     <FreeformMode>Yes</FreeformMode>
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="62" UUID="5397409A-F84F-4B39-925F-78C5E35D5D4C" Created="2018-11-04 20:21:58 +0100" Modified="2018-11-04 21:02:13 +0100" Type="Text">
+                            <Title>Scene 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5116,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -222,17 +232,47 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="56" UUID="55C2C2BB-AC8F-4D5D-8C8F-0D020E3D53E5" Created="2018-10-31 22:07:27 +0100" Modified="2018-10-31 22:07:31 +0100" Type="Text">
-                            <Title>Life</Title>
+                        <BinderItem ID="59" UUID="EF8C7303-1941-4DBE-A230-5B8E99CA99D5" Created="2018-11-04 20:09:04 +0100" Modified="2018-11-04 20:09:06 +0100" Type="Text">
+                            <Title>locations</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="57" UUID="4C0881A6-807F-46AE-8CBD-6507897E4A59" Created="2018-10-31 22:07:31 +0100" Modified="2018-10-31 22:07:38 +0100" Type="Text">
+                                    <Title>Market</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="60" UUID="BEECBFF8-3DF9-4373-801D-C7466A3E72A3" Created="2018-11-04 20:09:20 +0100" Modified="2018-11-04 20:10:10 +0100" Type="Text">
+                                    <Title>Inn</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>101,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="61" UUID="8ED8112F-5CDB-4C74-AEBC-7F6F5796B1E1" Created="2018-11-04 20:09:32 +0100" Modified="2018-11-04 20:09:34 +0100" Type="Text">
+                                    <Title>Monument</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem ID="57" UUID="4C0881A6-807F-46AE-8CBD-6507897E4A59" Created="2018-10-31 22:07:31 +0100" Modified="2018-10-31 22:07:38 +0100" Type="Text">
-                            <Title>Market</Title>
+                        <BinderItem ID="56" UUID="55C2C2BB-AC8F-4D5D-8C8F-0D020E3D53E5" Created="2018-10-31 22:07:27 +0100" Modified="2018-10-31 22:07:31 +0100" Type="Text">
+                            <Title>Life</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -504,6 +544,16 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="63" UUID="EE1E5901-6F5A-403F-8FE7-4BCFFE6F5D12" Created="2018-11-04 21:34:30 +0100" Modified="2018-11-04 21:37:36 +0100" Type="Text">
+                    <Title>Outside story outline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>935,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="20" UUID="0F62E5C2-41F2-41F7-B09A-AF381C34B686" Created="2010-10-19 14:57:18 +0100" Modified="2014-06-13 00:17:27 +0100" Type="Folder">
@@ -520,7 +570,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-12 07:52:57 +0100" Modified="2014-06-12 07:52:57 +0100" Type="Text">
+                <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-12 07:52:57 +0100" Modified="2018-11-04 21:33:56 +0100" Type="Text">
                     <Title>Character Sketch</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -531,6 +581,7 @@
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>539,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -609,7 +660,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="514" Characters="2807" Date="2018-11-04 10:58:58 +0100"/>
+        <PreviousSession Words="233" Characters="1280" Date="2018-11-04 21:31:42 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
