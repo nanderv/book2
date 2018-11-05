@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Labdob" Modified="2018-11-04 21:37:52 +0100" ModID="65F0FE39-E51F-4D6E-93B7-1B8EE6B20051">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Labdob" Modified="2018-11-05 17:05:57 +0100" ModID="E72675B1-64C5-4510-8A33-7D6683B1D086">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 22:48:19 +0100" Modified="2014-06-13 00:17:20 +0100" Type="Text">
             <Title>Novel Format</Title>
@@ -60,7 +60,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="62" UUID="5397409A-F84F-4B39-925F-78C5E35D5D4C" Created="2018-11-04 20:21:58 +0100" Modified="2018-11-04 21:02:13 +0100" Type="Text">
+                        <BinderItem ID="62" UUID="5397409A-F84F-4B39-925F-78C5E35D5D4C" Created="2018-11-04 20:21:58 +0100" Modified="2018-11-05 17:05:55 +0100" Type="Text">
                             <Title>Scene 2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -660,7 +660,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="233" Characters="1280" Date="2018-11-04 21:31:42 +0100"/>
+        <PreviousSession Words="639" Characters="3512" Date="2018-11-05 16:21:11 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
