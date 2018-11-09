@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Labdob" Modified="2018-11-08 11:54:50 +0100" ModID="DCA46065-A351-46EB-A7C9-BAF44BA57A2A">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Labdob" Modified="2018-11-09 20:21:44 +0100" ModID="8956B339-11E2-4D95-9B7D-A71042C2A089">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 22:48:19 +0100" Modified="2014-06-13 00:17:20 +0100" Type="Text">
             <Title>Novel Format</Title>
@@ -60,7 +60,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="62" UUID="5397409A-F84F-4B39-925F-78C5E35D5D4C" Created="2018-11-04 20:21:58 +0100" Modified="2018-11-08 11:54:50 +0100" Type="Text">
+                        <BinderItem ID="62" UUID="5397409A-F84F-4B39-925F-78C5E35D5D4C" Created="2018-11-04 20:21:58 +0100" Modified="2018-11-09 20:21:42 +0100" Type="Text">
                             <Title>Scene 2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -289,6 +289,18 @@
                                 <TextSelection>168,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="64" UUID="55132795-CE4B-4DB9-BB99-A6E849029FCA" Created="2018-11-08 15:41:02 +0100" Modified="2018-11-08 15:41:34 +0100" Type="Text">
+                                    <Title>Octogon</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>65,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -660,7 +672,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="182" Characters="968" Date="2018-11-08 11:48:40 +0100"/>
+        <PreviousSession Words="255" Characters="1349" Date="2018-11-09 15:31:24 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
