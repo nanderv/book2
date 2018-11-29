@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="DESKTOP-G97BSK6" Modified="2018-11-28 00:08:53 +0100" ModID="DD39F3D1-1BB8-4A53-B9D2-E91E9CAA2B95">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.9.0" Device="Labdob" Modified="2018-11-28 23:31:20 +0100" ModID="5405D034-47F8-4A2F-857F-1966B9469662">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 22:48:19 +0100" Modified="2014-06-13 00:17:20 +0100" Type="Text">
             <Title>Novel Format</Title>
@@ -100,13 +100,23 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" UUID="312ACEAE-61B7-4C92-B2C9-2016BD144606" Created="2018-11-20 20:31:43 +0100" Modified="2018-11-27 22:01:18 +0100" Type="Text">
+                        <BinderItem ID="68" UUID="312ACEAE-61B7-4C92-B2C9-2016BD144606" Created="2018-11-20 20:31:43 +0100" Modified="2018-11-28 23:07:41 +0100" Type="Text">
                             <Title>Scene 6 - Apocalypse Yesterday</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>43492,0</TextSelection>
+                                <TextSelection>47515,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="70" UUID="F8C98DBD-0702-4C38-9974-CD7525958E13" Created="2018-11-28 23:07:29 +0100" Modified="2018-11-28 23:31:20 +0100" Type="Text">
+                            <Title>Scene 7 - Magical place</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>10383,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -723,7 +733,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1297" Date="2018-11-27 21:32:45 +0100"/>
+        <PreviousSession Words="1586" Characters="8499" Date="2018-11-28 21:00:43 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
